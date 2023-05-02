@@ -1,0 +1,1592 @@
+ORIGINAL
+
+ARTICLES
+
+Deucravacitinib versus placebo and
+apremilast in moderate to severe plaque
+psoriasis: Efficacy and safety results
+from the 52-week, randomized,
+double-blinded, placebo-controlled
+phase 3 POETYK PSO-1 trial
+April W. Armstrong, MD, MPH,a Melinda Gooderham, MD,b Richard B. Warren, MD,c Kim A. Papp, MD, PhD,d
+Bruce Strober, MD, PhD,e Diamant Thaçi, MD,f Akimichi Morita, MD, PhD,g Jacek C. Szepietowski, MD, PhD,h
+Shinichi Imafuku, MD,i Elizabeth Colston, MD, PhD,j John Throup, PhD,j Sudeep Kundu, PhD,j
+Steve Schoenfeld, MD,j Misti Linaberry, MPH,j Subhashis Banerjee, MD,j and Andrew Blauvelt, MD, MBAk
+
+Background: Effective, well-tolerated oral psoriasis treatments are needed.
+Objective: To compare the efficacy and safety of deucravacitinib, an oral, selective, allosteric tyrosine
+kinase 2 inhibitor, versus placebo and apremilast in adults with moderate to severe plaque psoriasis.
+Methods: Participants were randomized 2:1:1 to deucravacitinib 6 mg every day (n = 332), placebo
+(n = 166), or apremilast 30 mg twice a day (n = 168) in the 52-week, double-blinded, phase 3 POETYK
+PSO-1 trial (NCT03624127). Coprimary end points included response rates for $75% reduction from
+baseline in Psoriasis Area and Severity Index (PASI 75) and static Physician’s Global Assessment score of
+0 or 1 (sPGA 0/1) with deucravacitinib versus placebo at week 16.
+Results: At week 16, response rates were significantly higher with deucravacitinib versus placebo or
+apremilast for PASI 75 (194 [58.4%] vs 21 [12.7%] vs 59 [35.1%]; P \.0001) and sPGA 0/1 (178 [53.6%] vs 12
+[7.2%] vs 54 [32.1%]; P \.0001). Efficacy improved beyond week 16 and was maintained through week 52.
+Adverse event rates with deucravacitinib were similar to those with placebo and apremilast.
+
+From the Department of Dermatology, Keck School of Medicine,
+University of Southern California, Los Angeles, Californiaa; SKiN
+Centre for Dermatology, Department of Dermatology at
+Queen’s University, and Probity Medical Research, Peterborough, Ontario, Canadab; Dermatology Centre at Salford Royal
+NHS Foundation Trust Hospital, NIHR Manchester Biomedical
+Research Centre at the University of Manchester, Manchester,
+United Kingdomc; K Papp Clinical Research and Probity Medical
+Research, Waterloo, Ontario, Canadad; Department of Dermatology, Yale University School of Medicine, New Haven, and
+Central Connecticut Dermatology Research, Cromwell, Connecticute; Comprehensive Center for Inflammation Medicine,
+University of L€
+ubeck, L€
+ubeck, Germanyf; Department of Geriatric and Environmental Dermatology, Nagoya City University
+Graduate School of Medical Sciences, Nagoya City, Aichi,
+Japang; Department of Dermatology, Venereology and Allergology, Wroclaw Medical University, Wroc1aw, Polandh; Dermatology, Faculty of Medicine, Fukuoka University, Fukuoka,
+Japani; Bristol Myers Squibb, Princeton, New Jerseyj; and
+Oregon Medical Research Center, Portland, Oregon.k
+
+Funding sources: This clinical trial was sponsored by Bristol Myers
+Squibb.
+IRB approval status: The study protocol and patient informed
+consent received appropriate approval before initiation of the
+study at each site by an institutional review board and/or
+independent ethics committee.
+Accepted for publication July 1, 2022.
+Reprints not available from the authors.
+Correspondence to: April W. Armstrong, MD, MPH, Department of
+Dermatology, Keck School of Medicine, University of Southern
+California, 1520 San Pablo St, Los Angeles, CA 90033. E-mail:
+aprilarmstrong@post.harvard.edu.
+Published online July 9, 2022.
+0190-9622
+Ó 2022 by the American Academy of Dermatology, Inc. Published
+by Elsevier Inc. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-ncnd/4.0/).
+https://doi.org/10.1016/j.jaad.2022.07.002
+
+29
+
+J AM ACAD DERMATOL
+
+30 Armstrong et al
+
+JANUARY 2023
+
+Limitations: One-year duration, limited racial diversity.
+Conclusion: Deucravacitinib was superior to placebo and apremilast across multiple efficacy
+end points and was well tolerated in moderate to severe plaque psoriasis. ( J Am Acad Dermatol
+2023;88:29-39.)
+Key words: apremilast; clinical trial; deucravacitinib; efficacy; phase 3; psoriasis; Psoriasis Area and Severity
+Index; safety; skin diseases; static Physician’s Global Assessment.
+
+INTRODUCTION
+
+Poland, Russia, South Korea,
+CAPSULE SUMMARY
+Tyrosine kinase 2 (TYK2)
+Spain, Taiwan, the United
+mediates signaling of interKingdom, and the United
+leukin 23 (IL-23) and other
+States, in accordance with
+Deucravacitinib is a selective allosteric
+cytokines involved in psoriathe Declaration of Helsinki
+tyrosine kinase 2 inhibitor under
+sis pathogenesis (eg, type I
+and the International Council
+investigation for the treatment of
+interferons).1-4 Individuals
+for Harmonization Good
+multiple immune-mediated
+with loss-of-function genetic
+Clinical Practice guideline.
+inflammatory diseases.
+polymorphisms of TYK2
+Independent institutional reHere, in a pivotal phase 3 study,
+have lower risk of develview board approvals were
+deucravacitinib was shown to be
+oping psoriasis and other
+obtained. All participants prosuperior to both placebo and apremilast
+immune-mediated diseases,
+vided
+written
+informed
+for the treatment of patients with
+without substantial safety
+consent.
+moderate to severe plaque psoriasis.
+concerns.1,4-7 These features
+Individuals $18 years of
+age with moderate to severe
+make TYK2 an attractive
+psoriasis (static Physician’s
+target for novel psoriasis
+Global Assessment [sPGA] $3, PASI $12, and body
+treatments.1-4
+surface area involvement $10%) for $6 months
+Deucravacitinib is an oral, selective TYK2 inhibitor
+before screening were enrolled. Complete inclusion
+under investigation for the treatment of multiple
+and exclusion criteria are provided in the
+immune-mediated inflammatory diseases, including
+Supplementary Material, available via Mendeley at
+plaque psoriasis, psoriatic arthritis, inflammatory
+https://data.mendeley.com/datasets/vpb6m7gmhn/.
+bowel disease (Crohn’s disease and ulcerative colitis),
+Patients were randomized 2:1:1 to deucravacitinib
+and systemic lupus erythematosus.1,2 Deucravacitinib
+6 mg every day, placebo, or apremilast twice a day on
+inhibits TYK2 via an allosteric mechanism by selecday 1 (Supplemental Fig 1, available via Mendeley at
+tively binding to the unique regulatory or pseudokihttps://data.mendeley.com/datasets/vpb6m7gmhn/).
+nase rather than the active catalytic domain of the
+Apremilast was titrated as per label in a blinded
+enzyme.1 In a phase 2 trial of patients with psoriasis,
+manner from 10 mg every day to 30 mg twice a day
+deucravacitinib demonstrated superior efficacy versus
+over the first 5 days of dosing; apremilast was not used
+placebo based on $75% reduction from baseline in
+in China where it was not approved at the start of the
+Psoriasis Area and Severity Index (PASI 75) over
+study. Randomization was stratified by geographic
+12 weeks.8 In a phase 2 trial of patients with psoriatic
+region (United States, Japan, China, and rest of world),
+arthritis, deucravacitinib was more efficacious than
+previous biologic use (for psoriasis, psoriatic arthritis,
+placebo in improving joint and skin manifestations
+or other inflammatory diseases only; yes/no), and
+over 16 weeks.9 In both studies, deucravacitinib was
+body weight ($90 kg and \90 kg). Body weight
+well tolerated with no clinically meaningful treatmentstratum was not applied in Japan or China due to
+related laboratory abnormalities observed.8,9 This
+lower expected body weights in these countries.
+report describes results from the pivotal phase 3
+Deucravacitinib-randomized patients maintained
+POETYK PSO-1 study of deucravacitinib in patients
+their initial treatment through week 52. At week 16,
+with moderate to severe plaque psoriasis.
+patients randomized to placebo crossed over to
+deucravacitinib. At week 24, patients randomized
+METHODS
+to apremilast who did not achieve $50% reduction
+Study design and participants
+from baseline in PASI (PASI 50) switched to deucraPOETYK PSO-1 was a 52-week, randomized,
+vacitinib, whereas those who achieved PASI 50
+double-blinded, double-dummy, placebo-controlled
+continued
+apremilast
+through
+week
+52.
+and active comparatorecontrolled trial conducted at
+Investigative site staff, the study sponsor and
+154 sites in Canada, China, Germany, Japan,
+d
+
+d
+
+J AM ACAD DERMATOL
+VOLUME 88, NUMBER 1
+
+Abbreviations used:
+AEs:
+IL:
+PASI 50:
+PASI 75:
+PASI 90:
+PASI 100:
+PGA-F 0/1:
+PSSD:
+PY:
+QoL:
+SAEs:
+sPGA 0/1:
+ss-PGA 0/1:
+TYK2:
+
+adverse events
+interleukin
+$50% reduction from baseline in
+Psoriasis Area and Severity Index
+$75% reduction from baseline in
+Psoriasis Area and Severity Index
+$90% reduction from baseline in
+Psoriasis Area and Severity Index
+100% reduction from baseline in
+Psoriasis Area and Severity Index
+Physician’s Global Assessment of
+Fingernail score of 0 or 1
+Psoriasis Symptoms and Signs Diary
+person-years
+quality of life
+serious adverse events
+static Physician’s Global Assessment
+score of 0 or 1
+scalp-specific Physician’s Global
+Assessment score of 0 or 1
+tyrosine kinase 2
+
+designated personnel, and patients and their families
+remained blinded to all treatment assignments and
+treatment switches.
+Procedures
+This trial included a 4-week screening period
+before study entry, a 16-week placebo- and
+apremilast-controlled period, an 8-week apremilastcontrolled period, and a 28-week maintenance period
+(Supplementary Fig 1, available via Mendeley at
+https://data.mendeley.com/datasets/vpb6m7gmhn/).
+Most efficacy and safety assessments were performed
+at baseline and at weeks 1, 2, 4, 8, 12, 16, and
+every 4 weeks thereafter through week 52 at
+investigative sites; the Psoriasis Symptoms and Signs
+Diary (PSSD) was completed daily by patients through
+week 52 (24-hour recall). Patients completing
+52 weeks of treatment could enroll in a single-arm,
+open-label, long-term extension trial where they
+received deucravacitinib 6 mg once daily. Patients
+who discontinued or did not enroll in the long-term
+extension study were followed for 4 weeks after the
+last dose.
+Outcome measures
+Coprimary efficacy end points were achievement
+of PASI 75 and sPGA 0/1 (clear/almost clear) with a
+$2-point improvement from baseline for deucravacitinib versus placebo at week 16. Key secondary
+end points included sPGA 0 (clear), $90% and 100%
+reductions from baseline in PASI (PASI 90 and PASI
+100), scalp-specific Physician’s Global Assessment
+score of 0 or 1 (ss-PGA 0/1) (clear or almost clear),
+and Physician’s Global Assessment of Fingernails
+
+Armstrong et al 31
+
+score of 0 or 1 (PGA-F 0/1) (clear or almost clear);
+additional outcomes and hierarchical testing details
+are presented in Supplementary Table I, available via
+Mendeley at https://data.mendeley.com/datasets/
+vpb6m7gmhn/. Patient-reported symptoms and
+signs of psoriasis were evaluated using the
+PSSD.10,11 Quality of life (QoL) was assessed using
+the Dermatology Life Quality Index. Safety data
+included adverse events (AEs) (Medical Dictionary
+for Regulatory Activities version 23.0), serious AEs
+(SAEs), and standard laboratory analytes. An
+external data monitoring committee periodically
+conducted safety assessments, and blinded external
+adjudication committees reviewed specific types of
+AEs, including infections, cardiovascular events, and
+suicidal ideation and behavior.
+Statistical analysis
+Sample size calculations were based on superiority testing of deucravacitinib for PASI 75 and sPGA 0/
+1 at week 16 versus placebo (coprimary end points)
+and versus apremilast. Expected response rates were
+60%, 10%, and 35% for deucravacitinib, placebo, and
+apremilast, respectively, based on deucravacitinib
+phase 2 study results, published placebo response
+rates, and apremilast prescribing information.12
+Using these assumptions, a sample size of 600
+patients was determined to have sufficient statistical
+power for analysis of efficacy outcomes and safety
+exposure data with deucravacitinib.
+Efficacy analyses were performed using the full
+analysis set (all randomized patients). Missing data
+were imputed by nonresponder imputation for the
+coprimary end points; note, as this study was
+conducted during the global SARS-CoV2 (COVID19) pandemic, PASI 75 and sPGA 0/1 analyses during
+weeks 24-52 excluded patients at visits that were
+missed solely due to COVID-19, as advised by the US
+Food and Drug Administration.13 The modified
+baseline-observation-carried-forward method was
+used to impute missing data for continuous secondary end points for patients who discontinued study
+treatment before week 16 due to lack of efficacy or
+AEs. Patients who discontinued study treatment
+before week 16 for other reasons had their last valid
+observation carried forward (including the baseline
+value as applicable).
+A stratified Cochran-Mantel-Haenszel test was used
+to compare PASI 75 and sPGA 0/1 response rates at
+week 16 in the deucravacitinib versus placebo groups.
+Both coprimary end points needed to demonstrate
+statistical significance using a 2-sided a level of 0.05
+for the study to be considered successful, and statistical analysis of the key secondary end points was
+performed in a hierarchical manner only if between-
+
+32 Armstrong et al
+
+group differences in both coprimary end points were
+significant (Supplementary Table I, available via
+Mendeley at https://data.mendeley.com/datasets/
+vpb6m7gmhn/). Testing of additional end points not
+in the hierarchy was considered nominal.
+Safety analyses were performed using the astreated population (all patients who received $1
+dose of study treatment). Week 52 safety data are
+reported as exposure-adjusted incidence rates per
+100 person-years (PY) to account for variable periods of treatment exposure in the 3 treatment
+groups. All analyses were performed using SAS
+software (SAS Institute Inc), version 9.4 or higher.
+
+RESULTS
+Study participants
+Between August 7, 2018, and July 5, 2019, a total
+of 666 patients were randomly assigned to treatment
+with deucravacitinib 6 mg every day (n = 332),
+placebo twice a day (n = 166), or apremilast 30 mg
+twice a day (n = 168) (Supplementary Fig 2, available
+via Mendeley at https://data.mendeley.com/
+datasets/vpb6m7gmhn/). Baseline patient demographics and disease characteristics were similar
+across groups and were typical for patients with
+moderate to severe plaque psoriasis (Table I).
+Treatment outcomes
+Response rates for the 2 coprimary end points
+were significantly higher with deucravacitinib versus
+placebo: PASI 75 was achieved in 194 (58.4%) versus
+21 (12.7%) patients (P \ .0001), and sPGA 0/1 was
+achieved in 178 (53.6%) versus 12 (7.2%) patients
+(P \ .0001) at week 16 (Table II; Fig 1). Response
+rates for PASI 75 and sPGA 0/1 continued to improve
+through week 24 and were higher with deucravacitinib versus apremilast at weeks 16 and 24 (P \.0001
+for each end point; Table II). Deucravacitinib responses were maintained to week 52 with continuous treatment (Fig 2).
+Deucravacitinib achieved statistical significance for
+multiple other secondary end points versus placebo
+and apremilast (Table II, Supplementary Table I,
+available via Mendeley at https://data.mendeley.
+com/datasets/vpb6m7gmhn/, Supplementary Fig 3,
+available via Mendeley at https://data.mendeley.
+com/datasets/vpb6m7gmhn/). A greater percentage
+of patients treated with deucravacitinib achieved PASI
+90 versus patients in the placebo and apremilast
+groups at week 16 (35.5% vs 4.2% and 19.6%,
+respectively; P \ .0001 vs placebo; P = .0002 vs
+apremilast) and versus the apremilast group at week
+24 (42.2% vs 22.0%; P \ .0001). Photographs illustrating PASI 90 response in a representative patient are
+provided in Supplementary Fig 4, available via
+
+J AM ACAD DERMATOL
+
+JANUARY 2023
+
+Mendeley at https://data.mendeley.com/datasets/
+vpb6m7gmhn/. Statistical significance was also
+achieved for deucravacitinib versus placebo and
+apremilast on measures of complete skin clearance,
+including sPGA 0 (17.5% vs 0.6% and 4.8%; P \.0001
+for both) and PASI 100 (14.2% vs 0.6% and 3.0%;
+P \ .0001 for both) at week 16. In patients with
+moderate to severe scalp psoriasis (ss-PGA $3) at
+baseline (deucravacitinib, n = 209; placebo, n = 121;
+apremilast, n = 110), 70.3% treated with deucravacitinib achieved ss-PGA 0/1 at week 16 versus 17.4%
+and 39.1% of patients treated with placebo and
+apremilast, respectively (P \ .0001 for both). In the
+few patients with moderate to severe fingernail psoriasis (PGA-F $3) at baseline (deucravacitinib, n = 43;
+placebo, n = 34), response rates for PGA-F 0/1 at
+week 16 were numerically higher with deucravacitinib (20.9%) than with placebo (8.8%).
+Greater reduction from baseline in PSSD symptom scores was observed at week 16 with deucravacitinib versus placebo and apremilast (adjusted mean
+change from baseline [SE], 26.7 [1.8] vs 3.6 [2.1]
+and 17.8 [2.2]; P \ .0001 for both); significant
+improvements with deucravacitinib versus placebo
+were observed by week 2. The proportion of patients
+who achieved a PSSD symptom score of 0 (symptomfree) with deucravacitinib at week 16 (7.9%) was
+significantly higher versus placebo (0.7%; P = .0013)
+and was numerically higher versus apremilast (4.4%;
+P = .17) (Table II). Deucravacitinib-treated patients
+reported greater QoL improvements than the other
+treatment groups, with a significantly greater
+Dermatology Life Quality Index 0/1 response rate
+at week 16 (41.0%) versus patients who received
+placebo (10.6%; P \ .0001) or apremilast (28.6%;
+P = .0088); significant improvements versus placebo
+were observed by week 2.
+In patients who crossed over from placebo to
+deucravacitinib treatment at week 16, clinical responses at week 52 were comparable to patients
+who received continuous deucravacitinib treatment
+from day 1. This was observed for PASI 75 and sPGA
+0/1 (Fig 2) and for change from baseline in PASI
+(80.5% vs 78.4%), ss-PGA 0/1 (69.7% vs 65.6%),
+and Dermatology Life Quality Index 0/1 (46.1% vs
+43.2%), respectively.
+Safety
+Over 52 weeks, total exposure was 419.1 PY for
+deucravacitinib, 46.9 PY for placebo, and 115.8 PY
+for apremilast. For the weeks 0-16 and weeks 0-52
+assessment periods, AE rates overall were similar
+across all 3 treatment groups, and the most frequent
+AEs in deucravacitinib-treated patients were nasopharyngitis and upper respiratory tract infection,
+
+J AM ACAD DERMATOL
+
+Armstrong et al 33
+
+VOLUME 88, NUMBER 1
+
+Table I. Baseline patient demographics and disease characteristics
+
+Parameter
+
+Age, mean (SD), y
+Weight, mean (SD), kg
+BMI, mean (SD), kg/m2
+Sex, n (%)
+Male
+Female
+Race, n (%)
+White
+Black or African American
+Asian
+Other
+Age at disease onset, mean (SD), years
+Duration of disease, mean (SD), years
+Psoriasis-related history, n (%)
+Scalp
+Nails
+Psoriatic arthritis
+Prior systemic treatment use, n (%)
+Yes
+Biologic*
+Nonbiologic
+No
+sPGA score (0-4), n (%)
+3 (moderate)
+4 (severe)
+PASI (0-72), mean (SD)
+BSA involvement, mean (SD), %
+DLQI (0-30), mean (SD)
+PSSD symptom score (0-100), mean
+(SD)
+ss-PGA $3, n (%)
+
+Placebo
+(n = 166)
+
+Deucravacitinib
+6 mg every day
+(n = 332)
+
+Apremilast 30 mg
+twice a day (n = 168)
+
+Total (N = 666)
+
+47.9 (14.0)
+89.1 (22.3)
+30.2 (7.4)
+
+45.9 (13.7)
+87.9 (21.8)
+29.8 (7.0)
+
+44.7 (12.1)
+87.5 (21.1)
+29.6 (6.7)
+
+46.1 (13.4)
+88.1 (21.7)
+29.9 (7.0)
+
+113 (68.1)
+53 (31.9)
+
+230 (69.3)
+102 (30.7)
+
+110 (65.5)
+58 (34.5)
+
+453 (68.0)
+213 (32.0)
+
+128
+3
+34
+1
+31.5
+17.3
+
+267
+2
+59
+4
+29.6
+17.1
+
+139
+1
+28
+0
+27.8
+17.7
+
+534
+6
+121
+5
+29.6
+17.3
+
+(77.1)
+(1.8)
+(20.5)
+(0.6)
+(14.7)
+(12.8)
+
+(80.4)
+(0.6)
+(17.8)
+(1.2)
+(15.1)
+(12.4)
+
+(82.7)
+(0.6)
+(16.7)
+(0.0)
+(13.1)
+(11.8)
+
+(80.2)
+(0.9)
+(18.2)
+(0.8)
+(14.6)
+(12.3)
+
+155 (93.4)
+76 (45.8)
+26 (15.7)
+
+298 (89.8)
+138 (41.6)
+64 (19.3)
+
+156 (92.9)
+64 (38.1)
+31 (18.5)
+
+609 (91.4)
+278 (41.7)
+121 (18.2)
+
+109
+63
+46
+57
+
+(65.7)
+(38.0)
+(27.7)
+(34.3)
+
+200
+130
+70
+132
+
+(60.2)
+(39.2)
+(21.1)
+(39.8)
+
+109
+66
+43
+59
+
+(64.9)
+(39.3)
+(25.6)
+(35.1)
+
+418
+259
+159
+248
+
+(62.8)
+(38.9)
+(23.9)
+(37.2)
+
+128
+37
+20.7
+25.3
+11.4
+51.4
+
+(77.1)
+(22.3)
+(8.0)
+(16.9)
+(6.6)
+(26.8)
+
+257
+75
+21.8
+26.6
+12.0
+51.7
+
+(77.4)
+(22.6)
+(8.6)
+(15.9)
+(6.7)
+(25.2)
+
+139
+29
+21.4
+26.6
+12.4
+56.2
+
+(82.7)
+(17.3)
+(9.0)
+(16.1)
+(6.8)
+(25.2)
+
+524
+141
+21.4
+26.3
+12.0
+52.8
+
+(78.7)
+(21.2)
+(8.6)
+(16.2)
+(6.7)
+(25.6)
+
+121 (72.9)
+
+209 (63.0)
+
+110 (65.5)
+
+440 (66.1)
+
+BMI, Body mass index; BSA, body surface area; DLQI, Dermatology Life Quality Index; IL, interleukin; PASI, Psoriasis Area and Severity Index;
+PSSD, Psoriasis Symptoms and Signs Diary; sPGA, static Physician’s Global Assessment; ss-PGA, scalp-specific Physician’s Global Assessment.
+*Including tumor necrosis factor inhibitors or antibodies to IL-23p19, IL-12/23p40, or IL-17.
+
+whereas headache, diarrhea, and nausea were more
+common with apremilast than in other treatment
+groups (Table III).
+The frequency of SAEs during weeks 0‒16 was
+lowest in the deucravacitinib group (2.1% vs 5.5% with
+placebo and 2.4% with apremilast). The incidence
+rates of SAEs during weeks 0‒52 were 7.5/100 PY with
+deucravacitinib and 5.2/100 PY with apremilast. All
+SAEs over 52 weeks occurred in single patients, except
+for pericarditis and cholecystitis, which each occurred
+in 2 deucravacitinib-treated patients. Discontinuations
+due to AEs over weeks 0‒52 were lower with
+deucravacitinib (3.3/100 PY) versus placebo (14.7/
+100 PY) and apremilast (10.3/100 PY). No AEs leading
+to discontinuation occurred in [1 patient receiving
+deucravacitinib (Supplementary Table II, available via
+Mendeley at https://data.mendeley.com/datasets/
+
+vpb6m7gmhn/). One death occurred in the placebo
+group on Day 23 due to hypertensive cardiovascular
+disease; no deaths occurred with deucravacitinib or
+apremilast (Table III). Incidence rates for AEs of
+interest, including skin events (Table III), herpes
+zoster (Table III), serious infections (Table III,
+Supplementary Table III, available via Mendeley at
+https://data.mendeley.com/datasets/vpb6m7gmhn/),
+and malignancies and cardiovascular events
+(Supplementary Table IV, available via Mendeley at
+https://data.mendeley.com/datasets/vpb6m7gmhn/),
+were low.
+Laboratory parameters
+No clinically meaningful changes from baseline
+were observed for laboratory parameters through
+week 16 (Supplementary Fig 5, available via
+
+J AM ACAD DERMATOL
+
+34 Armstrong et al
+
+JANUARY 2023
+
+Table II. Outcomes at weeks 16 and 24
+Outcomes at weeks 16 and 24
+
+End point
+
+PASI 75, n (%)
+Week 16
+Week 24
+PASI 90, n (%)
+Week 16
+Week 24
+PASI 100, n (%)
+Week 16
+Week 24
+sPGA 0/1, n (%)
+Week 16
+Week 24
+sPGA 0, n (%)
+Week 16
+Week 24
+Change from
+baseline PSSD
+symptom score,
+adjusted
+mean (SE)y
+Week 16
+Week 24
+PSSD symptom
+score 0, n (%)
+Week 16
+Week 24
+DLQI 0/1, n (%)
+Week 16
+Week 24
+ss-PGA 0/1, n (%)
+Week 16
+Week 24
+
+Placebo
+
+Deucravacitinib
+
+Apremilast
+
+21/166 (12.7)* 194/332 (58.4)* 59/168 (35.1)
+NA
+230/332 (69.3) 64/168 (38.1)
+7/166 (4.2)
+NA
+
+118/332 (35.5) 33/168 (19.6)
+140/332 (42.2) 37/168 (22.0)
+
+1/166 (0.6)
+NA
+
+47/332 (14.2) 5/168 (3.0)
+58/332 (17.5) 11/168 (6.5)
+
+58/332 (17.5) 8/168 (4.8)
+60/332 (18.1) 11/168 (6.5)
+
+3.6 (2.1)
+
+26.7 (1.8)
+
+NA
+
+31.9 (2.0)
+
+1/149 (0.7)
+NA
+
+24/305 (7.9)
+30/305 (9.8)
+
+Difference vs
+apremilast
+(95% CI)
+
+P value vs
+apremilast
+
+46.1 (38.9-53.2) \.0001
+NA
+NA
+
+23.0 (14.1-31.8)
+31.0 (22.2-39.8)
+
+\.0001
+\.0001
+
+31.6 (25.8-37.5) \.0001
+NA
+NA
+
+15.8 (8.2-23.5)
+20.0 (11.9-28.2)
+
+.0002
+\.0001
+
+11.3 (6.8-15.8)
+11.1 (5.6-16.6)
+
+\.0001
+.0007
+
+46.7 (40.2-53.2) \.0001
+NA
+NA
+
+21.4 (12.7-30.1)
+27.5 (18.8-36.2)
+
+\.0001
+\.0001
+
+17.1 (12.8-21.3) \.0001
+NA
+NA
+
+12.9 (7.7-18.0)
+11.7 (6.2-17.3)
+
+\.0001
+.0004
+
+13.7 (9.8-17.6)
+NA
+
+12/166 (7.2)* 178/332 (53.6)* 54/168 (32.1)
+NA
+195/332 (58.7) 52/168 (31.0)
+1/166 (0.6)
+NA
+
+Difference vs
+P value
+placebo (95% CI) vs placebo
+
+17.8 (2.2) e23.1 (2.0)
+[27.0, 19.1]
+20.7 (2.4)
+NA
+
+7/158 (4.4)
+8/158 (5.1)
+
+7.4 (4.1-10.7)
+NA
+
+\.0001
+NA
+
+\.0001
+NA
+
+.0013
+NA
+
+e8.8 (2.0)
+[12.8, 4.9]
+e11.2 (2.0)
+[15.2, 7.3]
+
+3.3 (e1.0 to 7.7)
+4.7 (0.0-9.5)
+
+\.0001
+\.0001
+
+.1702
+.0787
+
+17/160 (10.6) 132/322 (41.0) 46/161 (28.6)
+NA
+155/322 (48.1) 39/161 (24.2)
+
+30.5 (23.4-37.6) \.0001
+NA
+NA
+
+12.3 (3.4-21.1)
+24.3 (15.7-32.8)
+
+.0088
+\.0001
+
+21/121 (17.4) 147/209 (70.3) 43/110 (39.1)
+NA
+151/209 (72.2) 47/110 (42.7)
+
+52.8 (43.7-62.0) \.0001
+NA
+NA
+
+29.6 (18.7-40.6)
+29.0 (17.8-40.2)
+
+\.0001
+\.0001
+
+Missing data were imputed with nonresponder imputation, with the exception of PSSD, in which missing data were imputed using the
+modified baseline-observation-carried-forward method.
+DLQI, Dermatology Life Quality Index; NA, not applicable; PASI, Psoriasis Area and Severity Index; PSSD, Psoriasis Symptoms and Signs Diary;
+sPGA, static Physician’s Global Assessment; ss-PGA, scalp-specific Physician’s Global Assessment.
+*Coprimary end point.
+y
+Data shown are adjusted mean difference (SE).
+
+Mendeley at https://data.mendeley.com/datasets/
+vpb6m7gmhn/; Supplementary Table V, available
+via Mendeley at https://data.mendeley.com/
+datasets/vpb6m7gmhn/). The most common laboratory abnormality reported as an AE was increased
+blood creatine phosphokinase in all 3 treatment
+groups (exposure-adjusted incidence rates: 3.8/100
+PY for deucravacitinib, 2.1/100 PY for placebo, and
+3.4/100 PY for apremilast), which was typically
+associated with recent physical exertion and
+resolved without treatment in most cases.
+
+DISCUSSION
+Findings from POETYK PSO-1 demonstrated
+superiority of deucravacitinib on PASI 75 and sPGA
+0/1 at week 16 versus placebo (coprimary end
+points) and apremilast. Response rates continued
+to increase through week 24 in deucravacitinibtreated patients and were maintained through
+week 52. Deucravacitinib treatment was also associated with significantly greater improvements
+compared with placebo and apremilast across multiple ranked secondary efficacy end points, including
+
+J AM ACAD DERMATOL
+VOLUME 88, NUMBER 1
+
+Armstrong et al 35
+
+Fig 1. Efficacy measures through week 24. A, Coprimary end point: percentage of patients
+achieving PASI 75. (B) Coprimary end point: percentage of patients achieving an sPGA 0/1 with
+$2-point improvement from baseline. Error bars represent 95% confidence intervals. *P \.0001
+vs placebo. yP\.0001 vs apremilast. PASI 75, $75% reduction from baseline in Psoriasis Area and
+Severity Index; sPGA 0/1, static Physician’s Global Assessment score of 0 or 1.
+
+Fig 2. Efficacy responses with deucravacitinib through week 52. A, Percentage of patients
+achieving PASI 75. B, Percentage of patients achieving sPGA 0/1 with $2-point improvement
+from baseline. Error bars represent 95% confidence intervals. *P \ .0001 vs placebo. PASI 75,
+$75% reduction from baseline in Psoriasis Area and Severity Index; sPGA 0/1, static Physician’s
+Global Assessment.
+
+measures of clear skin and improvements in scalp
+psoriasis, psoriasis symptoms, and QoL. Efficacy
+outcomes for apremilast in this trial were similar to
+those reported with this agent in earlier phase 3 trials
+in psoriasis.14,15
+Types and rates of AEs, SAEs, and AEs resulting in
+treatment discontinuation were generally comparable among patients receiving deucravacitinib, placebo, or apremilast. The most common AEs with
+apremilast and those leading to discontinuation were
+not unexpected given its known safety profile.
+Exposure-adjusted AE incidence was consistent in
+the week 0-16 and week 0-52 assessment periods,
+and no new relevant AEs emerged with continued
+deucravacitinib exposure.
+
+An increased rate of viral infections, most notably
+herpes zoster reactivation, has been documented
+among patients receiving other immunomodulatory
+agents, including anti-interferon-I antibodies, antiIL-23p19 or IL-12/23p40 antibodies, JAK 1/2/3 inhibitors, and antietumor necrosis factor agents.16 In
+this study, herpes zoster infections occurred at a low
+rate in the deucravacitinib arm (exposure-adjusted
+incidence rate, 1.2/100 PY; 95% CI, 0.4-2.8; n = 5,
+including 3 Asian patients); all cases were mild to
+moderate, localized, followed a benign clinical
+course, were not serious, and did not lead to
+discontinuation. There was no evidence indicating
+an increased risk of SARS-CoV-2 infection or severe
+COVID-19 outcomes with deucravacitinib treatment
+
+J AM ACAD DERMATOL
+
+36 Armstrong et al
+
+JANUARY 2023
+
+Table III. Overall safety summary, weeks 0-16 and weeks 0-52
+Weeks 0-16
+AE category
+
+Placebo (n = 165), n (%)
+
+Any AE
+Serious AEs
+Treatment-related AEs
+AE leading to discontinuation
+Deaths
+Most common AEsy
+Nasopharyngitis
+Upper respiratory tract
+infection
+Headache
+Diarrhea
+Nausea
+
+70
+9
+20
+7
+1*
+
+Deucravacitinib (n = 332), n (%)
+
+(42.4)
+(5.5)
+(12.1)
+(4.2)
+(0.6)
+
+176
+7
+65
+6
+0
+
+Apremilast (n = 168), n (%)
+
+(53.0)
+(2.1)
+(19.6)
+(1.8)
+(0.0)
+
+93
+4
+36
+10
+0
+
+(55.4)
+(2.4)
+(21.4)
+(6.0)
+(0.0)
+
+7 (4.2)
+6 (3.6)
+
+21 (6.3)
+21 (6.3)
+
+14 (8.3)
+3 (1.8)
+
+5 (3.0)
+6 (3.6)
+4 (2.4)
+
+16 (4.8)
+13 (3.9)
+7 (2.1)
+
+17 (10.1)
+17 (10.1)
+19 (11.3)
+
+Placebo (n = 165),
+total PY = 46.9
+
+Deucravacitinib (n = 531),
+total PY = 419.1
+
+Weeks 0-52
+
+AE category
+
+Any AE
+Serious AEs
+Treatment-related AEs
+AE leading to discontinuation
+Deaths
+Most common AEsx
+Nasopharyngitis
+Upper respiratory tract
+infection
+Headache
+Diarrhea
+Nausea
+Arthralgia
+Cough
+Hypertension
+Psoriasis
+Dyspepsia
+Myalgia
+AEs of interest
+Skin event
+Acne
+Folliculitis
+Infections and infestations
+Serious infections
+Herpes zoster
+
+Apremilast (n = 168),
+total PY = 115.8
+
+n
+
+EAIR/100 PYz
+
+n
+
+EAIR/100 PYz
+
+n
+
+EAIR/100 PYz
+
+70
+9
+20
+7
+1*
+
+202.5
+19.2
+45.2
+14.7
+2.1
+
+395
+31
+117
+14
+0
+
+211.8
+7.5
+33.1
+3.3
+0.0
+
+127
+6
+45
+12
+0
+
+234.3
+5.2
+46.9
+10.3
+0.0
+
+7
+6
+
+14.7
+12.5
+
+96
+50
+
+25.4
+12.5
+
+26
+6
+
+24.3
+5.2
+
+5
+6
+4
+2
+3
+0
+7
+0
+0
+
+10.5
+12.7
+8.4
+4.1
+6.3
+0.0
+14.8
+0.0
+0.0
+
+35
+30
+7
+22
+15
+14
+9
+3
+3
+
+8.6
+7.3
+1.7
+5.3
+3.6
+3.4
+2.1
+0.7
+0.7
+
+23
+19
+21
+6
+2
+9
+5
+6
+6
+
+21.7
+17.6
+19.9
+5.2
+1.7
+7.9
+4.3
+5.2
+5.2
+
+0
+0
+
+0.0
+0.0
+
+15
+9
+
+3.6
+2.1
+
+0
+2
+
+0.0
+1.7
+
+1
+0
+
+2.1
+0.0
+
+1.4
+1.2k
+
+3
+0
+
+2.6
+0.0
+
+6
+5k
+
+AE, Adverse event; EAIR, exposure-adjusted incidence rate; PY, person-years.
+*A 57-year-old White female patient in the placebo group died on day 23 due to sudden cardiac death. This patient had a history of obesity,
+obstructive sleep apnea, and hypertensive cardiovascular disease.
+y
+$5% in any treatment group.
+z
+Safety data are expressed as EAIR/100 PY to account for variable periods of exposure to treatment.
+x
+EAIR $5/100 PY in any treatment group.
+k
+None of the herpes zoster cases was serious, disseminated, or resulted in treatment discontinuation.
+
+above background rates (not shown). Reported
+cases of malignancy were lower than the background rates in psoriasis from Psoriasis
+Longitudinal Assessment and Registry and
+
+MarketScan (reference databases).17,18 There were
+no meaningful changes during treatment with deucravacitinib in laboratory parameters known to
+change with JAK 1/2/3 inhibitors.2,3,19-21 The results
+
+J AM ACAD DERMATOL
+VOLUME 88, NUMBER 1
+
+of the present trial are consistent with phase 2
+results8,9 and the recently completed phase 3
+POETYK PSO-2 trial.
+This study was limited by the 1-year duration,
+which is short given the chronic nature of psoriasis;
+further long-term analyses are warranted to validate
+the maintenance of response and long-term safety
+profile of deucravacitinib. The POETYK PSO-LTE
+trial (NCT04036435) should provide additional
+insight into longer-term efficacy and safety of deucravacitinib. Racial diversity was limited in this study
+with [98% of patients self-reporting as White or
+Asian; applicability to other racial types or ethnicities
+needs to be confirmed in future studies.
+
+CONCLUSIONS
+In POETYK PSO-1, deucravacitinib was well tolerated and demonstrated efficacy that was superior to
+placebo and apremilast. As expected based on its
+TYK2 selectivity, deucravacitinib did not elicit any
+laboratory changes characteristic of JAK 1/2/3 inhibitors. These data highlight the potential for deucravacitinib, a once-daily oral drug, to reduce disease
+activity and improve symptoms and QoL among
+patients who require systemic therapy for psoriasis.
+The authors thank the patients and their families, the
+study site staff, and study site investigators for their
+participation. This clinical trial was sponsored by Bristol
+Myers Squibb. Writing and editorial assistance was provided by Lisa Feder, PhD, of Peloton Advantage, LLC, an
+OPEN Health company, Parsippany, NJ, USA, funded by
+Bristol Myers Squibb. Richard B. Warren, MD, is supported
+by the NIHR Manchester Biomedical Research Centre. The
+authors acknowledge Jonghyeon Kim, PhD, who was
+employed by Bristol Myers Squibb at the time the study
+was conducted, for his statistical assistance, as well as
+Marianne Peluso, Phenique Blacks, and Laura Aubrey for
+their assistance in trial coordination.
+Conflicts of interest
+
+Dr Armstrong has received research grants and personal
+fees from Bristol Myers Squibb, Eli Lilly, Janssen, Leo
+Pharma, and Novartis; has received personal fees from
+Boehringer Ingelheim/Parexel, Celgene, Dermavant,
+Genentech, GlaxoSmithKline, Menlo Therapeutics, Merck,
+Modernizing Medicine, Ortho Dermatologics, Pfizer,
+Regeneron, Sanofi Genzyme, Science 37, Sun Pharma, and
+Valeant; and has received grants from Dermira, Kyowa
+Hakko Kirin, and UCB, outside the submitted work. Dr
+Gooderham has served on an advisory board and as a
+principal investigator for, and has received lecture fees from,
+AbbVie, Galderma, Leo Pharma, Pfizer, and Regeneron; has
+served on an advisory board for, and has received lecture
+fees from, Actelion; has served as a principal investigator for,
+and received consulting fees from, Akros Pharma; has
+served on an advisory board and as a principal investigator
+
+Armstrong et al 37
+
+for, and received lecture and consulting fees from, Amgen,
+Boehringer Ingelheim, Celgene, Eli Lilly, Janssen, Novartis,
+Sanofi Genzyme, and Valeant; has served as a principal
+investigator for Arcutis, Bristol Myers Squibb, Dermira,
+GlaxoSmithKline,
+MedImmune,
+Merck,
+Roche
+Laboratories, and UCB; and has served as a principal
+investigator for, and received lecture fees from, Glenmark.
+Dr Warren has received research grants from AbbVie,
+Almirall, Amgen, Celgene, Eli Lilly, Janssen, Leo Pharma,
+Novartis, Pfizer, and UCB and has received consulting fees
+from AbbVie, Almirall, Amgen, Biogen, Boehringer
+Ingelheim, Celgene, Eli Lilly, Janssen, Leo Pharma,
+Novartis, Pfizer, Sanofi, UCB, and UNION. Dr Papp has
+served on a speakers bureau for AbbVie, Amgen, Astellas,
+Celgene, Eli Lilly, Galderma, Janssen, Kyowa Hakko Kirin,
+Leo Pharma, Merck Sharp & Dohme, Novartis, Pfizer, and
+Valeant; has received grant/research support from AbbVie,
+Akros, Allergan, Amgen, Anacor, Arcutis, AstraZeneca,
+Baxalta, Boehringer Ingelheim, Bristol Myers Squibb,
+Celgene, Coherus, Dermira, Dow Pharma, Eli Lilly,
+Galderma, Genentech, GlaxoSmithKline, Janssen, Kyowa
+Hakko Kirin, Leo Pharma, MedImmune, Meiji Seika Pharma,
+Merck Serono, Novartis, Pfizer, Regeneron, Roche, Sanofi
+Genzyme, Takeda, UCB, and Valeant; has served as a
+consultant for AbbVie, Akros, Amgen, Arcutis, Astellas,
+AstraZeneca, Baxalta, Baxter, Boehringer Ingelheim,
+Bristol Myers Squibb, CanFite, Celgene, Coherus, Dermira,
+Dow Pharma, Eli Lilly, Forward Pharma, Galderma,
+Genentech, Janssen, Kyowa Hakko Kirin, Leo Pharma,
+Meiji Seika Pharma, Merck Serono, Merck Sharp &
+Dohme, Mitsubishi Pharma, Novartis, Pfizer, Regeneron,
+Roche, Sanofi Genzyme, Takeda, UCB, and Valeant; has
+received honoraria from AbbVie, Akros, Amgen, Baxter,
+Boehringer Ingelheim, Celgene, Coherus, Eli Lilly, Forward
+Pharma, Galderma, GlaxoSmithKline, Janssen, Kyowa
+Hakko Kirin, Merck Serono, Merck Sharp & Dohme,
+Novartis, Pfizer, Takeda, UCB, and Valeant; and has served
+as a scientific officer, on a steering committee, and on an
+advisory board for AbbVie, Akros, Amgen, Anacor, Astellas,
+Baxter, Boehringer Ingelheim, Bristol Myers Squibb,
+Celgene, Dow Pharma, Eli Lilly, Galderma, Janssen,
+Kyowa Hakko Kirin, Merck Serono, Merck Sharp &
+Dohme, Novartis, Pfizer, Regeneron, Sanofi Genzyme, and
+Valeant. Dr Strober has served as a consultant (honoraria) for
+AbbVie, Almirall, Amgen, Arcutis, Arena, Aristea, Asana,
+Boehringer Ingelheim, Bristol Myers Squibb, Connect
+Biopharma, Dermavant, Equillium, GlaxoSmithKline,
+Immunic Therapeutics, Janssen, Leo Pharma, Eli Lilly,
+Maruho, Meiji Seika Pharma, Mindera, Novartis, Ortho
+Dermatologics, Pfizer, Regeneron, Sanofi Genzyme, Sun
+Pharma, UCB, Ventyxbio, and vTv Therapeutics; has served
+as a speaker for AbbVie, Eli Lilly, Janssen, and Sanofi
+Genzyme; has served as coscientific director for, and
+received consulting fees from, CorEvitas’ (Corrona)
+Psoriasis Registry; and has served as an investigator for
+AbbVie, Cara, CorEvitas’ (Corrona) Psoriasis Registry,
+Dermavant, Dermira, and Novartis. Dr Thaçi has received
+grant/research support from, and served on a scientific
+advisory board member and a speaker’s bureau for, AbbVie,
+
+J AM ACAD DERMATOL
+
+38 Armstrong et al
+
+Almirall, Amgen, Biogen Idec, Boehringer Ingelheim, Eli
+Lilly, Galapagos, Galderma, Janssen-Cilag, Leo Pharma,
+Novartis, Pfizer, Regeneron, Roche, Sandoz-Hexal, Sanofi,
+Target-Solution, and UCB. Dr Morita has received honoraria
+as a meeting chair or lecturer from AbbVie, AYUMI,
+Boehringer Ingelheim Japan, Celgene K.K., Eisai, Eli Lilly
+Japan K.K., Inforward, Janssen Pharmaceutical K.K., Kyowa
+Kirin, Maruho Co., Mitsubishi Tanabe Pharma, Nippon
+Kayaku, Novartis Pharma K.K., Taiho Pharmaceutical, Torii
+Pharmaceutical, and Ushio; has received funding from
+AbbVie GK, Eisai, Eli Lilly Japan K.K., Kyowa Hakko Kirin,
+Leo Pharma K.K., Maruho, Mitsubishi Tanabe Pharma,
+Novartis Pharma K.K., Taiho Pharmaceutical, and Torii
+Pharmaceutical; has received consulting fees from AbbVie,
+Boehringer Ingelheim Japan, Bristol Myers Squibb, Celgene
+K.K., Eli Lilly Japan K.K., GlaxoSmithKline K.K., Janssen
+Pharmaceutical K.K., Kyowa Hakko Kirin, Maruho,
+Mitsubishi Tanabe Pharma, Nichi-Iko Pharmaceutical,
+Nippon Kayaku, Novartis Pharma K.K., NPO Health
+Institute Research of Skin, Pfizer Japan, Sun Pharma, Taiho
+Pharmaceutical, and UCB Japan. Dr Szepietowski has served
+as an advisory board member/consultant for AbbVie, Leo
+Pharma, Novartis, Pierre-Fabre, Sanofi Genzyme, and Trevi;
+has served as a speaker for AbbVie, Eli Lilly, Janssen-Cilag,
+Leo Pharma, Novartis, and Sanofi Genzyme; and has served
+as an investigator for AbbVie, Amgen, Bristol Myers Squibb,
+Galapagos, Galderma, Incyte, InfraRX, Janssen-Cilag, Menlo
+Therapeutics, Merck, Novartis, Pfizer, Regeneron, UCB, and
+Trevi. Dr Imafuku has received grants and personal fees
+from AbbVie, Eisai, Janssen, Kyowa Kirin, Leo Pharma,
+Maruho, Sun Pharma, Taiho Yakuhin, Tanabe Mitsubishi,
+and Torii Yakuhin and has received personal fees from
+Amgen (Celgene), Bristol Myers Squibb, Daiichi Sankyo, Eli
+Lilly, Novartis, and UCB. Dr Colston, Ms Linaberry, and Dr
+Banerjee are employees of and shareholders in Bristol Myers
+Squibb. Dr Throup, Dr Kundu, and Dr Schoenfeld were
+employees of and shareholders in Bristol Myers Squibb at
+the time of study conduct. Dr Blauvelt has served as a
+speaker/received honoraria from AbbVie and UCB; served
+as a scientific adviser/received honoraria from AbbVie,
+Abcentra, Affibody, Aligos, Almirall, Alumis, Amgen,
+AnaptysBio, Arcutis, Arena, Aslan, Athenex, Boehringer
+Ingelheim, Bristol Myers Squibb, Cara Therapeutics,
+Dermavant, EcoR1, Eli Lilly and Company, Evelo,
+Evommune, Forte Biosciences, Galderma, HighlightII
+Pharma, Incyte, Janssen, Landos, Leo Pharma, Merck,
+Novartis, Pfizer, Rapt, Regeneron, Sanofi Genzyme,
+Spherix Global Insights, Sun Pharma, TLL Pharmaceutical,
+TrialSpark, UCB, Vibliome, and Xencor; and has acted as a
+clinical study investigator for (institution has received
+clinical study funds from) AbbVie, Acelyrin, Amgen,
+Arcutis, Athenex, Boehringer Ingelheim, Bristol Myers
+Squibb, Dermavant, Eli Lilly and Company, Evelo,
+Galderma, Incyte, Janssen, Leo, Merck, Novartis, Pfizer,
+Regeneron, Sun Pharma, and UCB.
+REFERENCES
+1. Burke JR, Cheng L, Gillooly KM, et al. Autoimmune pathways in
+mice and humans are blocked by pharmacological
+
+JANUARY 2023
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+stabilization of the TYK2 pseudokinase domain. Sci Transl
+Med. 2019;11:eaaw1736.
+Nogueira M, Puig L, Torres T. JAK inhibitors for treatment of
+psoriasis: focus on selective TYK2 inhibitors. Drugs. 2020;80:
+341-351.
+Schwartz DM, Kanno Y, Villarino A, Ward M, Gadina M,
+O’Shea JJ. JAK inhibition as a therapeutic strategy for immune
+and inflammatory diseases. Nat Rev Drug Discov. 2017;16:843862.
+Krueger JG, McInnes IB, Blauvelt A. Tyrosine kinase 2 and Janus
+kinase‒signal transducer and activator of transcription
+signaling and inhibition in plaque psoriasis. J Am Acad
+Dermatol. 2022;86:148-157.
+Karaghiosoff M, Neubauer H, Lassnig C, et al. Partial impairment of cytokine responses in TYK2-deficient mice. Immunity.
+2000;13:549-560.
+Sohn SJ, Barrett K, Van Abbema A, et al. A restricted role for
+TYK2 catalytic activity in human cytokine responses revealed
+by novel TYK2-selective inhibitors. J Immunol. 2013;191:22052216.
+Schurich A, Raine C, Morris V, Ciurtin C. The role of IL-12/23 in
+T cell-related chronic inflammation: implications of immunodeficiency and therapeutic blockade. Rheumatology (Oxford).
+2018;57:246-254.
+Papp K, Gordon K, Thaçi D, et al. Phase 2 trial of selective
+tyrosine kinase 2 inhibition in psoriasis. N Engl J Med. 2018;379:
+1313-1321.
+Mease PJ, Deodhar A, van der Heijde D, et al. Efficacy and
+safety of deucravacitinib (BMS-986165), an oral, selective
+tyrosine kinase 2 inhibitor, in patients with active psoriatic
+arthritis: results from a phase 2, randomized, double-blind,
+placebo-controlled trial. Presented at: the 2020 ACR Convergence; November 5-9, 2020 (virtual). Poster L03.
+Feldman SR, Mathias SD, Schenkel B, et al. Development of a
+patient-reported outcome questionnaire for use in adults
+with moderate-to-severe plaque psoriasis: the Psoriasis
+Symptoms and Signs Diary. J Dermatol Dermatol Surg.
+2016;20:19-26.
+Mathias SD, Feldman SR, Crosby RD, Colwell HH, McQuarrie K,
+Han C. Measurement properties of a patient-reported
+outcome measure assessing psoriasis severity: the psoriasis
+symptoms and signs diary. J Dermatolog Treat. 2016;27:322327.
+Otezla (apremilast) [package insert]: Amgen Inc.; December
+2021. Accessed June 21, 2022. https://www.pi.amgen.com/-/
+media/Project/Amgen/Repository/pi-amgen-com/Otezla/otezla_
+pi_english.pdf
+US Food and Drug Administration. Conduct of clinical trials of
+medical products during the COVID-19 public health emergency. Guidance for industry, investigators, and institutional
+review boards. Accessed June 21, 2022. https://www.fda.gov/
+regulatory-information/search-fda-guidance-documents/fdaguidance-conduct-clinical-trials-medical-products-during-covid19-public-health-emergency
+Papp K, Reich K, Leonardi CL, et al. Apremilast, an oral
+phosphodiesterase 4 (PDE4) inhibitor, in patients with moderate to severe plaque psoriasis: results of a phase III,
+randomized, controlled trial (Efficacy and Safety Trial Evaluating the Effects of Apremilast in Psoriasis [ESTEEM] 1). J Am
+Acad Dermatol. 2015;73:37-49.
+Paul C, Cather J, Gooderham M, et al. Efficacy and safety of
+apremilast, an oral phosphodiesterase 4 inhibitor, in patients
+with moderate-to-severe plaque psoriasis over 52 weeks: a
+phase III, randomized controlled trial (ESTEEM 2). Br J
+Dermatol. 2015;173:1387-1399.
+
+J AM ACAD DERMATOL
+VOLUME 88, NUMBER 1
+
+16. Sunzini F, McInnes I, Siebert S. JAK inhibitors and infections
+risk: focus on herpes zoster. Ther Adv Musculoskelet Dis. 2020;
+12:1759720x20936059.
+17. Fiorentino D, Ho V, Lebwohl MG, et al. Risk of malignancy with
+systemic psoriasis treatment in the psoriasis Longitudinal
+Assessment Registry. J Am Acad Dermatol. 2017;77:845-854.e5.
+18. Kimball AB, Schenfeld J, Accortt NA, Anthony MS, Rothman KJ,
+Pariser D. Cohort study of malignancies and hospitalized
+infectious events in treated and untreated patients with
+psoriasis and a general population in the United States. Br J
+Dermatol. 2015;173:1183-1190.
+
+Armstrong et al 39
+
+19. Baker KF, Isaacs JD. Novel therapies for immune-mediated
+inflammatory diseases: what can we learn from their use in
+rheumatoid arthritis, spondyloarthritis, systemic lupus erythematosus, psoriasis, Crohn’s disease and ulcerative colitis? Ann
+Rheum Dis. 2018;77:175-187.
+20. Gadina M, Le MT, Schwartz DM, et al. Janus kinases to jakinibs:
+from basic insights to clinical practice. Rheumatology (Oxford).
+2019;58:i4-i16.
+21. Winthrop KL. The emerging safety profile of JAK inhibitors in rheumatic disease. Nat Rev Rheumatol. 2017;
+13:234-243.
+
+
